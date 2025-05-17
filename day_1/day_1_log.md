@@ -1,5 +1,5 @@
-
 # 🐧 Linux Learning Journal
+
 ### 📅 Day 1 — May 16, 2025
 > *"To master the system, one must first understand its roots."*
 
