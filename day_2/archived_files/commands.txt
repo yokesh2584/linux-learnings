@@ -1,0 +1,62 @@
+1. pwd:
+    Print current directory.
+    # Output: /home/yokesh/linux_learning/day_2
+
+2. ls, ls -l, ls -a:
+    Lists files and folders in a directory.
+    # ls → basic listing
+    # ls -l → long listing with permissions, size, etc.
+    # ls -a → shows hidden files too (files starting with .)
+
+3. cd, cd ~, cd .., cd /path/to/dir:
+    Changes your current directory.
+    # cd linux_learning/day_2
+    # cd ~           # Go to home directory
+    # cd ..          # Go one level up
+    # cd /etc        # Go to an absolute path
+
+4. mkdir:
+    Creates a new directory (folder).
+    # mkdir new_folder
+
+5. rmdir:
+    Removes an empty directory.
+    # rmdir empty_folder
+
+6. rm:
+    Removes files. Be cautious — no undo!
+    # rm unwanted.txt
+
+7. rm -r:
+    Removes directories and their contents recursively.
+    # rm -r folder_with_files
+
+8. touch:
+    Creates a new empty file (or updates timestamp if file exists)
+    # touch new_file.txt
+
+9. cat:
+    Displays content of a file in the terminal.
+    # cat note.txt
+
+10. nano:
+    Opens a simple terminal-based text editor.
+    # nano task.txt
+
+11. vim:
+    Opens an advanced terminal-based text editor (press i to insert, Esc to exit insert mode, :wq to save & quit).
+    # vim task.txt
+
+12. echo:
+    Prints text, or writes to a file using redirection.
+    # echo "Hello Linux" > note.txt
+
+13. cp:
+    Copies files or directories.
+    # cp note.txt note_backup.txt
+
+14. mv:
+    Moves or renames files or directories.
+    # mv task.txt task_log.txt       # Rename
+    # mv file.txt archived_files/    # Move
+

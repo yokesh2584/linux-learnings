@@ -1,0 +1,15 @@
+🗓️ Day 2 — May 17, 2025
+
+🔁 Revisited the basics of Linux that were covered on Day 1 to warm up the mind.
+🧠 Reviewed JavaScript concepts practiced the previous day to strengthen understanding.
+🧩 Focused on one of JavaScript’s core topics — functions — and explored it deeply.
+    Covered function declarations, function expressions, arrow functions, and anonymous functions.
+🌌 Dived deeper into advanced JavaScript topics — Scope and Hoisting — to uncover how JavaScript behaves behind the scenes.
+🧪 Practiced several conceptual and challenge-based questions to reinforce learning.
+📝 Wrote a Day 2 JavaScript log file and committed all practice files and logs to the GitHub repository.
+
+🐧 Switched gears to Linux learning for the second half of the day.
+💻 Practiced essential file and directory commands (like pwd, ls, cd, mkdir, rm, touch, cp, mv, etc.).
+🗂️ Organized all command notes with explanations and examples.
+✅ Prepared a Day 2 Linux log and pushed related files into the GitHub repository.
+
