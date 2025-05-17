@@ -14,22 +14,22 @@
 
 ## 🧰 Commands Practiced with Purpose:
 
-**Command | Purpose | Example**
-
-- pwd || Prints the current working directory || pwd
-- ls, ls -l, ls -a || Lists directory contents (detailed or hidden if flagged) || ls -l, ls -a
-- cd, cd ~, cd .., cd /path/to/dir || Changes the working directory. || cd ~/Documents, cd ..
-- mkdir || Creates a new directory. || mkdir projects
-- rmdir || Removes an empty directory. || rmdir old_folder
-- rm || Removes a file. || rm notes.txt
-- rm -r || Removes a directory and its contents. || rm -r junk_folder
-- touch || Creates a new file. || touch hello.txt
-- cat || Displays file content. || cat hello.txt
-- nano || Opens a file in a simple text editor. || nano notes.txt
-- vim || Opens a file in the powerful Vim editor. || vim code.js
-- echo || Outputs text or writes content into a file. || echo "Hello" > greet.txt
-- cp || Copies files or directories. || cp file1.txt copy.txt
-- mv || Moves or renames files. || mv old.txt archive/ or mv file.txt renamed.txt
+| Command                              | Purpose                                                  | Example                                        |
+| ------------------------------------ | -------------------------------------------------------- | ---------------------------------------------- |
+| **pwd**                              | Prints the current working directory                     | pwd                                            |
+| **ls, ls -l, ls -a**                 | Lists directory contents (detailed or hidden if flagged) | ls -l, ls -a                                   |
+| **cd, cd ~, cd .., cd /path/to/dir** | Changes the working directory.                           | cd ~/Documents, cd ..                          |
+| **mkdir**                            | Creates a new directory.                                 | mkdir projects                                 |
+| **rmdir**                            | Removes an empty directory.                              | rmdir old_folder                               |
+| **rm**                               | Removes a file.                                          | rm notes.txt                                   |
+| **rm -r **                           | Removes a directory and its contents.                    | rm -r junk_folder                              |
+| **touch**                            | Creates a new file.                                      | touch hello.txt                                |
+| **cat**                              | Displays file content.                                   | cat hello.txt                                  |
+| **nano**                             | Opens a file in a simple text editor.                    | nano notes.txt                                 |
+| **vim**                              | Opens a file in the powerful Vim editor.                 | vim code.js                                    |
+| **echo**                             | Outputs text or writes content into a file.              | echo "Hello" > greet.txt                       |
+| **cp**                               | Copies files or directories.                             | cp file1.txt copy.txt                          |
+| **mv**                               | Moves or renames files.                                  | mv old.txt archive/ or mv file.txt renamed.txt |
 
 ---
 
