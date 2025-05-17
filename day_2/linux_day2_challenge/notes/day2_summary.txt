@@ -1,0 +1,3 @@
+Day2 was filled with the lots of learnings in both JavaScript and Linux, Went through many practicing questions in JavaScript and commands in linux to get a perfect touch and mastery on it.
+This is the summary of my day2 learnings.
+

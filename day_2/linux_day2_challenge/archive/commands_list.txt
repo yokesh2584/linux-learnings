@@ -1,0 +1,1 @@
+In day2 of linux learning, I have used some common linux commands that are used daily such as pwd, cd, ls, mkdir, rm, cp, mv, touch, echo, etc.,
