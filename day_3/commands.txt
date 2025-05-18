@@ -1,0 +1,31 @@
+1. head:
+	View first lines of a file.
+	# head example.txt, head -5 example.txt
+
+2. tail:
+	View last lines of a file.
+	# tail example.txt, tail -5 example.txt
+
+3. less: 
+	Paginate file content.
+	# less example.txt
+
+4. grep:
+	Search text in files.
+	# grep "linux" notes.txt
+
+5. man:
+	View manual of a command.
+	# man grep, man head, man history
+
+6. history:
+	Show recent commands used.
+	# history, history 5, history 10
+
+7. whoami:
+	Show current user.
+	# whoami
+
+8. hostname:
+	Show system hostname.
+	# hostname

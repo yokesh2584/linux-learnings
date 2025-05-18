@@ -1,0 +1,8 @@
+Day 3:
+This is the notes text file of day 3.
+Today I have planned to learn some more linux commands.
+Also I am going to practice those commands in my linux.
+Then complete some small tasks to check out my understandings of the commands.
+After then, I am going to do one mini-challenge to complete the learning of the current day.
+Then afterwards I will write my linux-learning's day3 log file.
+At last, I will push the commands file, log files and some other learning files of the current day into the GitHub repo.
