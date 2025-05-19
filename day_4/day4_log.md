@@ -8,23 +8,16 @@
 
 ## 🔹 1. Commands Practiced Today
 
-| Command     | Description                                    | Example                           |
-| ----------- | ---------------------------------------------- | --------------------------------- |
-| `history`   | Shows command history.                         | `history`                         |
-| `clear`     | Clears the terminal.                           | `clear`                           |
-| `date`      | Shows current date and time.                   | `date day3_notes.txt`             |
-| `cal`       | Displays a calendar.                           | `cal`                             |
-| `whoami`    | Tells you who you are in the system.           | `whoami`                          |
-| `uptime`    | Shows how long the system has been running.    | `history`                         |
-| `uname -a`  | Displays system information.                   | `whoami`                          |
-| `df -h`     | Shows disk space usage.                        | `df -h`                           |
-| `du -sh * ` | Shows size of files/folders in readable format | `du -sh *`                        |
-| `tree `     | Visual tree of directory (install if needed)   | `tree`                            |
-| `chmod `    | Change file permissions.                       | `chmod 644 file.txt`              |
-| `chown `    | Change file ownership                          | `sudo chown user file.txt`        |
-| `find`      | Search file across the system.                 | `find dir -type f -name "\*.txt"` |
-| `xargs`     | Execute commands on search results.            | `xargs wc -l`                     |
-| `sort`      | Text processing and cleanup                    | `sort file.txt`                   |
+| Command | Purpose                                      | Example Usage                            |
+| ------- | -------------------------------------------- | ---------------------------------------- |
+| tr      | Translate or delete characters from input    | `tr 'a-z' 'A-Z' `                        |
+| unzip   | Extract .zip archives                        | `unzip file.zip`                         |
+| gzip    | Compress files using .gz                     | `gzip file.txt` → creates file.txt.gz    |
+| gunzip  | Decompress .gz files                         | `gunzip file.txt.gz` → restores file.txt |
+| unalias | Remove an alias temporarily                  | `unalias ls`                             |
+| explore | GUI file explorer (Windows only, not Ubuntu) | `explore` . (⚠️ Not used on Ubuntu)      |
+| env     | View all environment variables               | `env`                                    |
+| tar     | Archive & extract .tar.gz files              | `tar -xvzf archive.tar.gz`               |
 
 ---
 
@@ -39,5 +32,4 @@
 
 ## 💭 Reflections
 
-Today felt like unraveling a secret scroll — each command, a key; each file, a whisper of possibility.  
-I’m gaining more confidence navigating Linux not as a stranger, but as someone finally understanding its rhythm.
+Even the tiniest command hides the might of a thousand possibilities. Today, I bent archives to my will, peeked into environments, and translated words with the whisper of tr. I am not just a coder—I am a terminal sorcerer.
