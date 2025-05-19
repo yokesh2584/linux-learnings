@@ -1,0 +1,53 @@
+1. history
+	Shows command history
+
+2. clear	
+	Clears the terminal
+
+3. date	
+	Shows current date and time
+
+4. cal	
+	Displays a calendar
+
+5. whoami	
+	Tells you who you are in the system
+
+6. uptime	
+	Shows how long the system has been running
+
+7. uname -a	
+	Displays system information
+
+8. df -h	
+	Shows disk space usage
+
+9. du -sh *	
+	Shows size of files/folders in readable format
+
+10. tree	
+	Visual tree of directory (install if needed)
+
+11. chmod, chown
+	Change file permissions and ownership.
+	# chmod 644 file.txt, sudo chown anotheruser file.txt
+
+12. find, locate, updatedb
+	Search file across the system.
+	# find dir -type f -name "*.txt"
+
+13. xargs
+	Execute commands on search results.
+	# find dir -type f -name "*.txt" | xargs wc -l
+
+14. sort, uniq, cut, tr
+	Text processing and cleanup
+
+15. tar, zip, unzip, gzip, gunzip
+	Compress and extract files.
+
+16. alias, unalias
+	Create command shortcuts.
+
+17. export, env
+	Explore environment variables.
